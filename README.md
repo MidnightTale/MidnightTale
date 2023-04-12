@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Discord Presence](https://lynse.net/api/221569955236282368)](https://discord.com/users/221569955236282368)
+![About me](https://cdn.discordapp.com/attachments/966983176046133258/1095700544691130398/image.png)
