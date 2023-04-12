@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![About me](https://cdn.discordapp.com/attachments/966983176046133258/1095700544691130398/image.png)
+![image](https://user-images.githubusercontent.com/125941391/231473597-27785c61-46ac-4021-9afc-b3861cea0689.png)
+
