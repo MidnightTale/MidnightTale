@@ -1,4 +1,1 @@
-### Hi there 👋
-
-![image](https://user-images.githubusercontent.com/125941391/231473597-27785c61-46ac-4021-9afc-b3861cea0689.png)
-
+![image](https://user-images.githubusercontent.com/125941391/231686916-a46f5c24-82be-49c2-b845-969f0f6cf807.png)
