@@ -1,4 +1,4 @@
-## Hello, i just random person on internet / nice too meet you
+## Hello, i'm random person on internet / nice too meet you
 
 # My Project can be download on
 
