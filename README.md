@@ -2,4 +2,4 @@
 
 
 ### About
-Hello, Im new to java development usually me only do graphic design / modeling / etc about design
+Hello, Im new to java development usually me only do graphic design / modeling / website design
