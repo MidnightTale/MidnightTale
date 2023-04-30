@@ -1,5 +1,6 @@
-### About
-Hello, Im new to java development usually me only do graphic design / modeling / website design
+![download](https://user-images.githubusercontent.com/125941391/235354314-b5b4259a-94c4-4842-847b-ee4984492e4d.png)
+
+> Im new to java development usually me only do graphic design / modeling / website design
 
 ![dc-inverted](https://dcbadge.vercel.app/api/shield/221569955236282368?bot=true&theme=discord-inverted)
 |Project|Build|
