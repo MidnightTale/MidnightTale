@@ -1,9 +1,19 @@
-name: Licenses and permissions
-with:
-  filename: metrics.plugin.licenses.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  template: repository
-  repo: metrics
-  plugin_licenses: yes
-  plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+name: Licenses and Permissions
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  licenses:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+    - name: Display License Information
+      uses: lowlighter/metrics@latest
+      with:
+        repo: FoliaFlow
+        plugin_licenses: yes
+        plugin_licenses_setup: npm ci
+        token: ${{ secrets.GITHUB_TOKEN }}
