@@ -2,7 +2,7 @@
 
 > Im new to java development usually me only do graphic design / modeling / website design
 
-![dc-inverted](https://dcbadge.vercel.app/api/shield/221569955236282368?bot=true&theme=discord-inverted)
+![](https://dcbadge.vercel.app/api/shield/221569955236282368?theme=discord-inverted)
 |Project|Build|
 |--|--|
 |FoliaFlow|[![FoliaFlow](https://github.com/Hynse/FoliaFlow/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Hynse/FoliaFlow/actions/workflows/build.yml)|
