@@ -13,7 +13,7 @@
 <h3 align="center"> About Me :3</h3>
 
 <p align="center">
-Working on: Hynse Network Server<br>
+Working on: Hynse Network Website and Server<br>
 Learning: React<br>
 Coding since: 2017
 </p>
